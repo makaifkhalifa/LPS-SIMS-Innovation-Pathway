@@ -2,11 +2,11 @@
   "pages": [
 	{
 	  "htmlID": "navlps_sims_ip",
-	  "title": "State Innovation Pathway &tilde;",
-	  "version": "24.10.1.1",
+	  "title": "SIMS - Innovation Pathways",
+	  "version": "24.10.1.2",
 	  "contextType": "student",
 	  "requiredContext": "student",
-	  "sortOrder": 1010,
+	  "sortOrder": 900,
 	  "pageURL": "/admin/students/LPS-innovationpathway.html?frn=~(studentfrn)",
 	  "parentHTMLID": "navUSA_MAStudent"
 	}
